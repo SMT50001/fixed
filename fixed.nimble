@@ -1,5 +1,5 @@
 version       = "1.0.0"
-author        = "Yuriy Faldin"
+author        = "smt50001"
 description   = "Fixed-point math library. Port of Trevor Spiter's Rust fixed crate initially made by Antonis Geralis."
 license       = "MIT or Apache 2.0"
 
